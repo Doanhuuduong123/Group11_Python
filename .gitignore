@@ -1,0 +1,13 @@
+# Python Cache & Bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environments (nếu có)
+.venv/
+venv/
+env/
+
+# Jupyter Notebook Checkpoints (nếu có)
+.ipynb_checkpoints/
