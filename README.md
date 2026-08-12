@@ -9,7 +9,7 @@
 
 | STT | Họ và tên | Mã sinh viên | Lớp |
 | --- | --- | --- | --- |
-| 1 | **Đoàn Hữu Dương** | 3120225034 | 25CNTT3 |
+| 1 | ** Đoàn Hữu Dương** | 3120225034 | 25CNTT3 |
 | 2 | **Nguyễn Huy Bình** | 3120225014 | 25CNTT3 |
 | 3 | **Nguyễn Hồ Đại Phong** | 3120225117 | 25CNTT3 |
 | 4 | **Nguyễn Bình An** | 3120225003 | 25CNTT3 |
