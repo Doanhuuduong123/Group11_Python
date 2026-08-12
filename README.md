@@ -45,38 +45,44 @@ Nó bao gồm:
 
 ```
 old_code/
-├── README.md                        # Hướng dẫn cài đặt và chạy dự án
-├── requirements.txt                 # Thư viện cần cài              
-├── main.py                          # Entry point chính CLI/Web/GUI
-├── gui.py                           # Giao diện desktop CustomTkinter
-├── notebook.ipynb                   # Jupyter Notebook phân tích
-├── app/                             # Streamlit dashboard và pages
-│   ├── app.py                       # Trang chính Streamlit
-│   ├── __init__.py                  # Cấu hình import dự án cho Streamlit
-│   ├── components/                  # Component UI dùng chung
+├── README.md
+├── requirements.txt
+├── main.py
+├── gui.py
+├── notebook.ipynb
+│
+├── app/
+│   ├── __init__.py
+│   ├── app.py
+│   ├── components/
 │   │   ├── __init__.py
 │   │   ├── charts.py
 │   │   ├── kpi_cards.py
 │   │   └── sidebar.py
-│   └── pages/                       # Pages của dashboard
+│   └── pages/
 │       ├── 1_Overview.py
 │       ├── 2_Customer_RFM.py
 │       └── 3_Sales_Forecast.py
+│
 ├── data/
-│   ├── generate_data.py             # Script sinh dữ liệu mẫu
-│   ├── README.md                    # Mô tả dữ liệu và định dạng
-│   ├── output/                      # Kết quả xuất thêm
-│   ├── processed/                   # Dữ liệu đã tiền xử lý
-│   └── raw/                         # Dữ liệu thô
-│       ├── Superstore.csv
-│       └── Superstore.json
-├── outputs/                         # Kết quả biểu đồ/ảnh xuất thêm
-├── src/                             # Core logic OOP
+│   ├── README.md
+│   ├── generate_data.py
+│   ├── raw/
+│   │   ├── Superstore.csv
+│   │   └── Superstore.json
+│   ├── processed/
+│   └── output/
+│
+├── outputs/
+│
+├── src/
 │   ├── __init__.py
-│   ├── data_loader.py               # Tải và tiền xử lý dữ liệu
-│   ├── retail_analyzer.py           # Phân tích doanh số, RFM, giỏ hàng
-│   └── sales_forecaster.py          # Dự báo SMA/EMA/Linear Regression
-└── tests/                           # Unit tests
+│   ├── data_loader.py
+│   ├── retail_analyzer.py
+│   └── sales_forecaster.py
+│
+└── tests/
+    ├── __init__.py
     ├── test_data_loader.py
     └── test_retail_analyzer.py
 ```
