@@ -24,8 +24,8 @@ class SuperstoreGUI(ctk.CTk):
         self.geometry("1280x800")
         self.minsize(1100, 700)
 
-        # Đường dẫn file dữ liệu
-        self.data_path = os.path.join("data", "raw", "Superstore.csv")
+        # Đường dẫn file dữ liệu (Cập nhật đọc dữ liệu đã làm sạch)
+        self.data_path = os.path.join("data", "processed", "Superstore_clean.csv")
         self.df_raw = None
         self.df_filtered = None
         self.current_canvas = None
@@ -65,7 +65,7 @@ class SuperstoreGUI(ctk.CTk):
         self.btn_kpi.grid(row=2, column=0, padx=15, pady=6, sticky="ew")
 
         self.btn_cat = ctk.CTkButton(
-            self.sidebar, text=" Doanh Thu Ngành Hang", anchor="w",
+            self.sidebar, text=" Doanh Thu Ngành Hàng", anchor="w",
             font=ctk.CTkFont(size=14), height=38, fg_color="transparent", text_color=("gray10", "gray90"),
             command=lambda: self.switch_view("chart_cat")
         )
@@ -145,7 +145,7 @@ class SuperstoreGUI(ctk.CTk):
         try:
             if not os.path.exists(self.data_path):
                 # Thử tìm ở thư mục cha nếu chạy từ góc khác
-                self.data_path = os.path.join("..", "data", "Superstore.csv")
+                self.data_path = os.path.join("..", "data", "processed", "Superstore_clean.csv")
 
             self.df_raw = pd.read_csv(self.data_path)
             self.df_filtered = self.df_raw.copy()

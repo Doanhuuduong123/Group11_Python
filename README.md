@@ -676,18 +676,7 @@ python -m pytest tests/ -v
 
 ---
 
-> Dự án đã được cập nhật để dễ triển khai và hiển thị tốt trên GitHub.
-```
-
-Chạy notebook:
-
-```bash
-jupyter notebook notebook.ipynb
-```
-
----
-
-## 16. XỬ LÝ MỘT SỐ LỖI THƯỜNG GẶP
+## 18. XỬ LÝ MỘT SỐ LỖI THƯỜNG GẶP
 
 ### Lỗi không tìm thấy file dữ liệu
 
@@ -748,7 +737,7 @@ notebook.ipynb
 
 ---
 
-## 17. QUY TRÌNH CHẠY ĐỂ KIỂM TRA TRƯỚC KHI NỘP
+## 19. QUY TRÌNH CHẠY ĐỂ KIỂM TRA TRƯỚC KHI NỘP
 
 Khuyến nghị kiểm tra theo thứ tự:
 
@@ -809,16 +798,16 @@ python main.py --gui
 
 ---
 
-## 18. LƯU Ý KHI NỘP BÀI
+## 20. LƯU Ý KHI NỘP BÀI
 
 Project cần được đóng gói sao cho có thể chạy từ thư mục gốc theo hướng dẫn trong README.
 
 Không nên đưa vào file nén:
 
-* `.venv/`
-* `__pycache__/`
-* file tạm của hệ điều hành.
-* các file không cần thiết có dung lượng lớn.
+- `.venv/`
+- `__pycache__/`
+- file tạm của hệ điều hành
+- các file không cần thiết có dung lượng lớn
 
 Các file quan trọng cần có:
 
@@ -837,7 +826,7 @@ Nếu dữ liệu vượt giới hạn dung lượng cho phép, cần cung cấp
 
 ---
 
-## 19. TÓM TẮT
+## 21. TÓM TẮT
 
 Dự án DT04 xây dựng một quy trình phân tích dữ liệu bán lẻ hoàn chỉnh gồm:
 

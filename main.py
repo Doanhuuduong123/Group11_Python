@@ -27,13 +27,13 @@ def run_cli_pipeline():
     print("=" * 70)
     
     # 1. Tải dữ liệu
-    print("\n📂 [Bước 1/4] Tải dữ liệu...")
+    print("\n[Bước 1/4] Tải dữ liệu...")
     data_path = os.path.join(PROJECT_ROOT, 'data', 'raw', 'Superstore.csv')
     loader = DataLoader(data_path)
     loader.load_data()
     
     # 2. Tiền xử lý
-    print("\n🔧 [Bước 2/4] Tiền xử lý dữ liệu...")
+    print("\n[Bước 2/4] Tiền xử lý dữ liệu...")
     clean_df = loader.preprocess()
     
     # Lưu dữ liệu đã xử lý
@@ -41,7 +41,7 @@ def run_cli_pipeline():
     
     # Tóm tắt dữ liệu
     summary = loader.get_data_summary()
-    print(f"\n📊 Tóm tắt dữ liệu:")
+    print(f"\n Tóm tắt dữ liệu:")
     print(f"   - Tổng số dòng: {summary.get('total_rows', 'N/A')}")
     print(f"   - Tổng doanh thu: ${summary.get('total_sales', 0):,.2f}")
     print(f"   - Tổng lợi nhuận: ${summary.get('total_profit', 0):,.2f}")
@@ -49,7 +49,7 @@ def run_cli_pipeline():
     print(f"   - Số khách hàng: {summary.get('unique_customers', 'N/A')}")
     
     # 3. Phân tích
-    print("\n📈 [Bước 3/4] Phân tích dữ liệu...")
+    print("\n[Bước 3/4] Phân tích dữ liệu...")
     analyzer = RetailAnalyzer(clean_df)
     
     # Phân tích theo Category
@@ -75,7 +75,7 @@ def run_cli_pipeline():
     
     # 4. Hoàn thành
     print("\n" + "=" * 70)
-    print("✅ [Bước 4/4] Phân tích hoàn tất!")
+    print("[Bước 4/4] Phân tích hoàn tất!")
     print(f"   Dữ liệu sạch đã lưu tại: data/processed/Superstore_clean.csv")
     print(f"   Để xem Dashboard trực quan: streamlit run app/app.py")
     print("=" * 70)
@@ -85,13 +85,13 @@ def run_web_dashboard():
     """Khởi chạy Streamlit Dashboard."""
     import subprocess
     app_path = os.path.join(PROJECT_ROOT, 'app', 'app.py')
-    print("🌐 Đang khởi chạy Streamlit Dashboard...")
+    print("Đang khởi chạy Streamlit Dashboard...")
     subprocess.run([sys.executable, '-m', 'streamlit', 'run', app_path], cwd=PROJECT_ROOT)
 
 
 def run_desktop_gui():
     """Khởi chạy giao diện Desktop CustomTkinter."""
-    print("🖥️ Đang khởi chạy giao diện Desktop...")
+    print("Đang khởi chạy giao diện Desktop...")
     from gui import SuperstoreGUI
     app = SuperstoreGUI()
     app.mainloop()
