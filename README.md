@@ -236,14 +236,14 @@ python -m pytest tests/ -v
 - Tiền xử lý, xóa trùng lặp, xử lý NaN, trích xuất trường thời gian.
 - Lưu dữ liệu sạch về `data/processed`.
 - Cung cấp hàm tóm tắt dữ liệu.
-
+- Phát hiện và xử lý ngoại lai bằng IQR + Capping.
 ### `src/retail_analyzer.py`
 - Phân tích doanh thu, lợi nhuận và số lượng theo nhiều chiều.
 - Lấy Top sản phẩm và khách hàng.
 - Phân tích seasonality và tác động discount.
 - Phân tích khách hàng theo RFM.
 - Market Basket Analysis cặp `Sub-Category`.
-- Tạo pivot table và phát hiện ngoại lai bằng IQR.
+- Phân tích/Kiểm tra ngoại lai bằng IQR.
 
 ### `src/sales_forecaster.py`
 - Dự báo doanh số theo thời gian tháng.

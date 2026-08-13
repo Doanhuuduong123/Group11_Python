@@ -60,17 +60,23 @@ class DataLoader:
             print(f"[DataLoader Error] Lỗi khi tải dữ liệu: {e}")
             raise e
 
-    def preprocess(self) -> pd.DataFrame:
+    def preprocess(self, handle_outliers: bool = True) -> pd.DataFrame:
         """
         Tiền xử lý dữ liệu: làm sạch thiếu (NaN), ép kiểu datetime, loại bỏ dòng trùng lặp,
-        và trích xuất các trường thời gian (Năm, Tháng, Quý, Thứ trong tuần).
+        chuẩn hóa tên cột/giá trị, xử lý ngoại lai, và trích xuất các trường thời gian.
         
+        :param handle_outliers: Có thực hiện loại bỏ/capping ngoại lai hay không
         :return: DataFrame đã làm sạch
         """
         if self.raw_df is None:
             self.load_data()
 
         df = self.raw_df.copy()
+
+        # 0. Chuẩn hóa tên cột và các giá trị chuỗi (text)
+        df.columns = df.columns.str.strip()
+        for col in df.select_dtypes(include=['object']).columns:
+            df[col] = df[col].astype(str).str.strip()
 
         # 1. Xử lý trùng lặp
         initial_count = len(df)
@@ -97,6 +103,18 @@ class DataLoader:
 
         if 'Ship Date' in df.columns:
             df['Ship Date'] = pd.to_datetime(df['Ship Date'])
+
+        # 4. Xử lý ngoại lai thực sự (Capping - Winsorization)
+        if handle_outliers:
+            for col in ['Sales', 'Profit']:
+                if col in df.columns:
+                    q1 = df[col].quantile(0.25)
+                    q3 = df[col].quantile(0.75)
+                    iqr = q3 - q1
+                    lower_bound = q1 - 1.5 * iqr
+                    upper_bound = q3 + 1.5 * iqr
+                    # Capping thay vì xóa để không mất dữ liệu quan trọng
+                    df[col] = np.clip(df[col], lower_bound, upper_bound)
 
         self.clean_df = df
         logger.info(f"Tiền xử lý hoàn tất! Loại bỏ {dropped_duplicates} trùng lặp. Tổng dòng sạch: {len(self.clean_df)}")
