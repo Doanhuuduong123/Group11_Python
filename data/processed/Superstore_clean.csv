@@ -49,7 +49,7 @@ CA-2024-10047,2023-07-13,2023-07-18,CUST-1028,Customer 29,Consumer,East,Office S
 CA-2024-10048,2023-05-12,2023-05-16,CUST-1069,Customer 70,Corporate,East,Office Supplies,Paper,Office Supplies - Paper Model 266,441.5,2,0.0,107.48,2023,5,2023-05,2023Q2,Friday
 CA-2024-10049,2023-06-22,2023-06-27,CUST-1113,Customer 114,Consumer,South,Office Supplies,Appliances,Office Supplies - Appliances Model 994,280.39,1,0.15,29.09,2023,6,2023-06,2023Q2,Thursday
 CA-2024-10050,2024-05-19,2024-05-23,CUST-1112,Customer 113,Consumer,North,Furniture,Chairs,Furniture - Chairs Model 157,104.47,5,0.0,30.2,2024,5,2024-05,2024Q2,Sunday
-CA-2024-10051,2023-08-01,2023-08-04,CUST-1100,Customer 101,Consumer,East,Technology,Accessories,Technology - Accessories Model 146,1921.55,6,0.0,575.66,2023,8,2023-08,2023Q3,Tuesday
+CA-2024-10051,2023-08-01,2023-08-04,CUST-1100,Customer 101,Consumer,East,Technology,Accessories,Technology - Accessories Model 146,1921.55,6,0.0,527.8087499999999,2023,8,2023-08,2023Q3,Tuesday
 CA-2024-10052,2024-07-19,2024-07-22,CUST-1015,Customer 16,Corporate,East,Furniture,Furnishings,Furniture - Furnishings Model 883,1787.11,4,0.0,417.41,2024,7,2024-07,2024Q3,Friday
 CA-2024-10053,2023-05-02,2023-05-06,CUST-1035,Customer 36,Consumer,South,Furniture,Furnishings,Furniture - Furnishings Model 831,379.53,4,0.5,-49.41,2023,5,2023-05,2023Q2,Tuesday
 CA-2024-10054,2023-05-25,2023-05-26,CUST-1032,Customer 33,Consumer,North,Office Supplies,Appliances,Office Supplies - Appliances Model 657,187.05,6,0.4,-8.87,2023,5,2023-05,2023Q2,Thursday
@@ -75,11 +75,11 @@ CA-2024-10073,2024-10-07,2024-10-08,CUST-1093,Customer 94,Consumer,East,Technolo
 CA-2024-10074,2023-11-22,2023-11-24,CUST-1117,Customer 118,Corporate,West,Office Supplies,Labels,Office Supplies - Labels Model 239,113.11,2,0.2,5.51,2023,11,2023-11,2023Q4,Wednesday
 CA-2024-10075,2023-05-19,2023-05-23,CUST-1076,Customer 77,Corporate,North,Office Supplies,Storage,Office Supplies - Storage Model 360,182.95,4,0.0,49.11,2023,5,2023-05,2023Q2,Friday
 CA-2024-10076,2024-08-18,2024-08-19,CUST-1062,Customer 63,Corporate,North,Furniture,Tables,Furniture - Tables Model 649,1288.46,6,0.0,367.3,2024,8,2024-08,2024Q3,Sunday
-CA-2024-10077,2023-08-24,2023-08-26,CUST-1077,Customer 78,Home Office,East,Technology,Machines,Technology - Machines Model 646,2785.97,6,0.0,774.92,2023,8,2023-08,2023Q3,Thursday
+CA-2024-10077,2023-08-24,2023-08-26,CUST-1077,Customer 78,Home Office,East,Technology,Machines,Technology - Machines Model 646,2785.97,6,0.0,527.8087499999999,2023,8,2023-08,2023Q3,Thursday
 CA-2024-10078,2023-08-17,2023-08-21,CUST-1029,Customer 30,Home Office,North,Technology,Copiers,Technology - Copiers Model 177,1074.75,4,0.0,278.18,2023,8,2023-08,2023Q3,Thursday
-CA-2024-10079,2024-02-06,2024-02-09,CUST-1037,Customer 38,Corporate,East,Office Supplies,Labels,Office Supplies - Labels Model 244,2843.15,7,0.1,360.12,2024,2,2024-02,2024Q1,Tuesday
+CA-2024-10079,2024-02-06,2024-02-09,CUST-1037,Customer 38,Corporate,East,Office Supplies,Labels,Office Supplies - Labels Model 244,2812.5675,7,0.1,360.12,2024,2,2024-02,2024Q1,Tuesday
 CA-2024-10080,2023-04-14,2023-04-17,CUST-1038,Customer 39,Consumer,South,Office Supplies,Art,Office Supplies - Art Model 653,404.48,7,0.3,3.86,2023,4,2023-04,2023Q2,Friday
-CA-2024-10081,2024-04-22,2024-04-25,CUST-1035,Customer 36,Home Office,North,Office Supplies,Appliances,Office Supplies - Appliances Model 510,2254.88,6,0.0,611.99,2024,4,2024-04,2024Q2,Monday
+CA-2024-10081,2024-04-22,2024-04-25,CUST-1035,Customer 36,Home Office,North,Office Supplies,Appliances,Office Supplies - Appliances Model 510,2254.88,6,0.0,527.8087499999999,2024,4,2024-04,2024Q2,Monday
 CA-2024-10082,2024-05-31,2024-06-03,CUST-1073,Customer 74,Consumer,South,Office Supplies,Binders,Office Supplies - Binders Model 976,430.26,7,0.2,23.66,2024,5,2024-05,2024Q2,Friday
 CA-2024-10083,2023-02-16,2023-02-20,CUST-1075,Customer 76,Corporate,East,Office Supplies,Art,Office Supplies - Art Model 391,1087.04,3,0.0,237.15,2023,2,2023-02,2023Q1,Thursday
 CA-2024-10084,2024-07-03,2024-07-05,CUST-1045,Customer 46,Corporate,South,Office Supplies,Paper,Office Supplies - Paper Model 309,1853.75,7,0.15,258.22,2024,7,2024-07,2024Q3,Wednesday
@@ -104,7 +104,7 @@ CA-2024-10102,2024-04-20,2024-04-22,CUST-1045,Customer 46,Consumer,West,Technolo
 CA-2024-10103,2023-10-23,2023-10-26,CUST-1035,Customer 36,Corporate,East,Office Supplies,Paper,Office Supplies - Paper Model 197,1244.25,6,0.0,309.04,2023,10,2023-10,2023Q4,Monday
 CA-2024-10104,2024-07-01,2024-07-05,CUST-1082,Customer 83,Corporate,East,Technology,Copiers,Technology - Copiers Model 464,72.01,1,0.2,3.65,2024,7,2024-07,2024Q3,Monday
 CA-2024-10105,2024-12-13,2024-12-14,CUST-1000,Customer 1,Consumer,East,Office Supplies,Labels,Office Supplies - Labels Model 138,82.92,2,0.2,9.08,2024,12,2024-12,2024Q4,Friday
-CA-2024-10106,2024-04-22,2024-04-24,CUST-1011,Customer 12,Consumer,West,Technology,Phones,Technology - Phones Model 116,2997.95,7,0.1,385.75,2024,4,2024-04,2024Q2,Monday
+CA-2024-10106,2024-04-22,2024-04-24,CUST-1011,Customer 12,Consumer,West,Technology,Phones,Technology - Phones Model 116,2812.5675,7,0.1,385.75,2024,4,2024-04,2024Q2,Monday
 CA-2024-10107,2024-08-14,2024-08-17,CUST-1007,Customer 8,Corporate,North,Office Supplies,Paper,Office Supplies - Paper Model 809,883.04,2,0.1,125.5,2024,8,2024-08,2024Q3,Wednesday
 CA-2024-10108,2024-05-03,2024-05-08,CUST-1025,Customer 26,Consumer,South,Office Supplies,Labels,Office Supplies - Labels Model 893,580.91,2,0.0,123.18,2024,5,2024-05,2024Q2,Friday
 CA-2024-10109,2024-06-02,2024-06-03,CUST-1114,Customer 115,Home Office,South,Office Supplies,Appliances,Office Supplies - Appliances Model 693,1204.34,4,0.2,86.6,2024,6,2024-06,2024Q2,Sunday
@@ -122,7 +122,7 @@ CA-2024-10120,2023-07-14,2023-07-15,CUST-1097,Customer 98,Home Office,North,Offi
 CA-2024-10121,2023-11-24,2023-11-27,CUST-1004,Customer 5,Consumer,South,Furniture,Furnishings,Furniture - Furnishings Model 787,865.95,5,0.5,-167.86,2023,11,2023-11,2023Q4,Friday
 CA-2024-10122,2023-10-28,2023-11-02,CUST-1114,Customer 115,Home Office,West,Office Supplies,Art,Office Supplies - Art Model 848,778.99,3,0.3,-12.05,2023,10,2023-10,2023Q4,Saturday
 CA-2024-10123,2024-07-24,2024-07-27,CUST-1047,Customer 48,Corporate,East,Furniture,Bookcases,Furniture - Bookcases Model 269,159.19,3,0.2,8.89,2024,7,2024-07,2024Q3,Wednesday
-CA-2024-10124,2024-07-10,2024-07-12,CUST-1114,Customer 115,Home Office,South,Furniture,Tables,Furniture - Tables Model 536,2629.21,7,0.0,672.07,2024,7,2024-07,2024Q3,Wednesday
+CA-2024-10124,2024-07-10,2024-07-12,CUST-1114,Customer 115,Home Office,South,Furniture,Tables,Furniture - Tables Model 536,2629.21,7,0.0,527.8087499999999,2024,7,2024-07,2024Q3,Wednesday
 CA-2024-10125,2024-08-11,2024-08-16,CUST-1011,Customer 12,Consumer,West,Furniture,Tables,Furniture - Tables Model 212,2005.67,7,0.0,402.95,2024,8,2024-08,2024Q3,Sunday
 CA-2024-10126,2023-12-31,2024-01-03,CUST-1111,Customer 112,Consumer,South,Furniture,Bookcases,Furniture - Bookcases Model 323,1436.36,4,0.15,248.78,2023,12,2023-12,2023Q4,Sunday
 CA-2024-10127,2023-10-05,2023-10-09,CUST-1019,Customer 20,Corporate,South,Technology,Machines,Technology - Machines Model 116,350.03,1,0.1,54.11,2023,10,2023-10,2023Q4,Thursday
@@ -130,18 +130,18 @@ CA-2024-10128,2024-04-18,2024-04-21,CUST-1081,Customer 82,Home Office,West,Offic
 CA-2024-10129,2023-02-02,2023-02-05,CUST-1074,Customer 75,Corporate,South,Furniture,Chairs,Furniture - Chairs Model 384,1277.07,3,0.1,174.14,2023,2,2023-02,2023Q1,Thursday
 CA-2024-10130,2023-06-06,2023-06-09,CUST-1115,Customer 116,Home Office,East,Office Supplies,Paper,Office Supplies - Paper Model 558,88.52,1,0.4,-10.35,2023,6,2023-06,2023Q2,Tuesday
 CA-2024-10131,2023-01-21,2023-01-26,CUST-1058,Customer 59,Home Office,East,Furniture,Tables,Furniture - Tables Model 606,725.99,4,0.15,112.23,2023,1,2023-01,2023Q1,Saturday
-CA-2024-10132,2023-06-12,2023-06-13,CUST-1024,Customer 25,Corporate,South,Technology,Machines,Technology - Machines Model 638,2907.44,6,0.0,607.99,2023,6,2023-06,2023Q2,Monday
+CA-2024-10132,2023-06-12,2023-06-13,CUST-1024,Customer 25,Corporate,South,Technology,Machines,Technology - Machines Model 638,2812.5675,6,0.0,527.8087499999999,2023,6,2023-06,2023Q2,Monday
 CA-2024-10133,2024-06-03,2024-06-06,CUST-1045,Customer 46,Corporate,East,Office Supplies,Binders,Office Supplies - Binders Model 792,777.31,2,0.15,124.1,2024,6,2024-06,2024Q2,Monday
 CA-2024-10134,2023-06-02,2023-06-03,CUST-1107,Customer 108,Consumer,North,Furniture,Bookcases,Furniture - Bookcases Model 930,1654.93,5,0.0,462.98,2023,6,2023-06,2023Q2,Friday
-CA-2024-10135,2024-01-30,2024-02-04,CUST-1080,Customer 81,Consumer,South,Office Supplies,Storage,Office Supplies - Storage Model 465,2926.38,6,0.0,788.65,2024,1,2024-01,2024Q1,Tuesday
-CA-2024-10136,2023-04-12,2023-04-13,CUST-1007,Customer 8,Corporate,East,Furniture,Bookcases,Furniture - Bookcases Model 687,3109.25,7,0.1,565.31,2023,4,2023-04,2023Q2,Wednesday
+CA-2024-10135,2024-01-30,2024-02-04,CUST-1080,Customer 81,Consumer,South,Office Supplies,Storage,Office Supplies - Storage Model 465,2812.5675,6,0.0,527.8087499999999,2024,1,2024-01,2024Q1,Tuesday
+CA-2024-10136,2023-04-12,2023-04-13,CUST-1007,Customer 8,Corporate,East,Furniture,Bookcases,Furniture - Bookcases Model 687,2812.5675,7,0.1,527.8087499999999,2023,4,2023-04,2023Q2,Wednesday
 CA-2024-10137,2024-10-21,2024-10-22,CUST-1073,Customer 74,Corporate,South,Office Supplies,Storage,Office Supplies - Storage Model 324,288.08,5,0.0,81.37,2024,10,2024-10,2024Q4,Monday
 CA-2024-10138,2024-10-27,2024-10-29,CUST-1037,Customer 38,Corporate,South,Office Supplies,Storage,Office Supplies - Storage Model 205,57.74,1,0.4,-6.21,2024,10,2024-10,2024Q4,Sunday
 CA-2024-10139,2024-09-26,2024-09-27,CUST-1005,Customer 6,Corporate,East,Office Supplies,Storage,Office Supplies - Storage Model 815,743.61,2,0.15,117.74,2024,9,2024-09,2024Q3,Thursday
 CA-2024-10140,2023-04-21,2023-04-24,CUST-1006,Customer 7,Corporate,West,Office Supplies,Storage,Office Supplies - Storage Model 121,703.12,3,0.0,152.16,2023,4,2023-04,2023Q2,Friday
 CA-2024-10141,2023-01-14,2023-01-17,CUST-1081,Customer 82,Consumer,East,Office Supplies,Labels,Office Supplies - Labels Model 400,470.45,3,0.5,-78.24,2023,1,2023-01,2023Q1,Saturday
 CA-2024-10142,2024-09-22,2024-09-27,CUST-1054,Customer 55,Consumer,West,Office Supplies,Storage,Office Supplies - Storage Model 822,113.22,1,0.1,14.51,2024,9,2024-09,2024Q3,Sunday
-CA-2024-10143,2023-02-04,2023-02-09,CUST-1092,Customer 93,Consumer,East,Furniture,Furnishings,Furniture - Furnishings Model 916,2747.51,7,0.1,562.21,2023,2,2023-02,2023Q1,Saturday
+CA-2024-10143,2023-02-04,2023-02-09,CUST-1092,Customer 93,Consumer,East,Furniture,Furnishings,Furniture - Furnishings Model 916,2747.51,7,0.1,527.8087499999999,2023,2,2023-02,2023Q1,Saturday
 CA-2024-10144,2024-05-30,2024-06-03,CUST-1107,Customer 108,Corporate,West,Furniture,Bookcases,Furniture - Bookcases Model 707,510.35,2,0.15,65.67,2024,5,2024-05,2024Q2,Thursday
 CA-2024-10145,2024-07-31,2024-08-02,CUST-1035,Customer 36,Consumer,South,Technology,Accessories,Technology - Accessories Model 345,482.43,3,0.15,69.06,2024,7,2024-07,2024Q3,Wednesday
 CA-2024-10146,2024-06-03,2024-06-07,CUST-1111,Customer 112,Corporate,South,Furniture,Chairs,Furniture - Chairs Model 101,513.87,5,0.0,125.24,2024,6,2024-06,2024Q2,Monday
@@ -196,13 +196,13 @@ CA-2024-10194,2024-01-01,2024-01-05,CUST-1010,Customer 11,Home Office,East,Offic
 CA-2024-10195,2024-06-03,2024-06-05,CUST-1037,Customer 38,Consumer,West,Technology,Copiers,Technology - Copiers Model 747,194.04,1,0.5,-25.86,2024,6,2024-06,2024Q2,Monday
 CA-2024-10196,2024-07-14,2024-07-18,CUST-1067,Customer 68,Corporate,North,Technology,Copiers,Technology - Copiers Model 289,719.15,2,0.2,49.82,2024,7,2024-07,2024Q3,Sunday
 CA-2024-10197,2024-05-02,2024-05-04,CUST-1117,Customer 118,Consumer,West,Office Supplies,Binders,Office Supplies - Binders Model 325,539.89,7,0.0,140.29,2024,5,2024-05,2024Q2,Thursday
-CA-2024-10198,2024-10-26,2024-10-29,CUST-1077,Customer 78,Consumer,North,Furniture,Furnishings,Furniture - Furnishings Model 513,1860.94,4,0.0,537.24,2024,10,2024-10,2024Q4,Saturday
+CA-2024-10198,2024-10-26,2024-10-29,CUST-1077,Customer 78,Consumer,North,Furniture,Furnishings,Furniture - Furnishings Model 513,1860.94,4,0.0,527.8087499999999,2024,10,2024-10,2024Q4,Saturday
 CA-2024-10199,2023-05-02,2023-05-03,CUST-1011,Customer 12,Home Office,South,Office Supplies,Paper,Office Supplies - Paper Model 760,2496.57,6,0.15,393.57,2023,5,2023-05,2023Q2,Tuesday
 CA-2024-10200,2023-08-24,2023-08-27,CUST-1085,Customer 86,Corporate,North,Technology,Phones,Technology - Phones Model 880,403.47,5,0.15,35.98,2023,8,2023-08,2023Q3,Thursday
 CA-2024-10201,2024-07-15,2024-07-18,CUST-1022,Customer 23,Home Office,North,Office Supplies,Appliances,Office Supplies - Appliances Model 800,1126.68,3,0.0,289.0,2024,7,2024-07,2024Q3,Monday
 CA-2024-10202,2024-02-17,2024-02-21,CUST-1110,Customer 111,Home Office,North,Furniture,Chairs,Furniture - Chairs Model 285,16.6,1,0.15,2.79,2024,2,2024-02,2024Q1,Saturday
 CA-2024-10203,2023-04-14,2023-04-17,CUST-1095,Customer 96,Home Office,South,Furniture,Chairs,Furniture - Chairs Model 504,2204.71,7,0.15,328.04,2023,4,2023-04,2023Q2,Friday
-CA-2024-10204,2023-04-22,2023-04-27,CUST-1008,Customer 9,Corporate,South,Technology,Accessories,Technology - Accessories Model 665,2513.1,6,0.0,743.39,2023,4,2023-04,2023Q2,Saturday
+CA-2024-10204,2023-04-22,2023-04-27,CUST-1008,Customer 9,Corporate,South,Technology,Accessories,Technology - Accessories Model 665,2513.1,6,0.0,527.8087499999999,2023,4,2023-04,2023Q2,Saturday
 CA-2024-10205,2024-01-12,2024-01-16,CUST-1074,Customer 75,Corporate,East,Office Supplies,Art,Office Supplies - Art Model 200,475.56,7,0.1,91.41,2024,1,2024-01,2024Q1,Friday
 CA-2024-10206,2024-06-19,2024-06-22,CUST-1025,Customer 26,Consumer,North,Furniture,Tables,Furniture - Tables Model 504,174.6,6,0.0,48.79,2024,6,2024-06,2024Q2,Wednesday
 CA-2024-10207,2023-01-20,2023-01-21,CUST-1118,Customer 119,Home Office,North,Office Supplies,Appliances,Office Supplies - Appliances Model 435,447.62,4,0.1,80.73,2023,1,2023-01,2023Q1,Friday
@@ -247,24 +247,24 @@ CA-2024-10245,2024-08-01,2024-08-05,CUST-1065,Customer 66,Consumer,East,Office S
 CA-2024-10246,2024-07-26,2024-07-30,CUST-1005,Customer 6,Consumer,West,Furniture,Chairs,Furniture - Chairs Model 548,1050.64,5,0.1,146.68,2024,7,2024-07,2024Q3,Friday
 CA-2024-10247,2023-10-18,2023-10-23,CUST-1083,Customer 84,Consumer,North,Office Supplies,Labels,Office Supplies - Labels Model 401,93.61,3,0.2,6.41,2023,10,2023-10,2023Q4,Wednesday
 CA-2024-10248,2023-12-07,2023-12-12,CUST-1048,Customer 49,Consumer,South,Furniture,Chairs,Furniture - Chairs Model 332,1037.76,5,0.0,292.46,2023,12,2023-12,2023Q4,Thursday
-CA-2024-10249,2024-07-24,2024-07-25,CUST-1038,Customer 39,Consumer,East,Furniture,Tables,Furniture - Tables Model 432,2328.86,5,0.0,564.01,2024,7,2024-07,2024Q3,Wednesday
+CA-2024-10249,2024-07-24,2024-07-25,CUST-1038,Customer 39,Consumer,East,Furniture,Tables,Furniture - Tables Model 432,2328.86,5,0.0,527.8087499999999,2024,7,2024-07,2024Q3,Wednesday
 CA-2024-10250,2023-11-28,2023-12-03,CUST-1116,Customer 117,Consumer,North,Office Supplies,Appliances,Office Supplies - Appliances Model 701,812.95,2,0.15,135.18,2023,11,2023-11,2023Q4,Tuesday
 CA-2024-10251,2023-06-23,2023-06-28,CUST-1046,Customer 47,Consumer,East,Technology,Accessories,Technology - Accessories Model 423,1196.91,7,0.15,106.8,2023,6,2023-06,2023Q2,Friday
 CA-2024-10252,2024-02-16,2024-02-20,CUST-1112,Customer 113,Consumer,South,Office Supplies,Labels,Office Supplies - Labels Model 869,288.37,1,0.15,48.68,2024,2,2024-02,2024Q1,Friday
 CA-2024-10253,2023-09-23,2023-09-25,CUST-1050,Customer 51,Home Office,North,Furniture,Tables,Furniture - Tables Model 183,1135.3,5,0.3,-37.87,2023,9,2023-09,2023Q3,Saturday
 CA-2024-10254,2023-12-16,2023-12-18,CUST-1080,Customer 81,Corporate,West,Furniture,Bookcases,Furniture - Bookcases Model 410,412.92,2,0.3,16.85,2023,12,2023-12,2023Q4,Saturday
 CA-2024-10255,2023-05-07,2023-05-08,CUST-1022,Customer 23,Home Office,South,Technology,Accessories,Technology - Accessories Model 206,670.55,3,0.0,170.49,2023,5,2023-05,2023Q2,Sunday
-CA-2024-10256,2024-09-25,2024-09-29,CUST-1107,Customer 108,Corporate,East,Office Supplies,Binders,Office Supplies - Binders Model 946,2683.0,7,0.0,692.8,2024,9,2024-09,2024Q3,Wednesday
+CA-2024-10256,2024-09-25,2024-09-29,CUST-1107,Customer 108,Corporate,East,Office Supplies,Binders,Office Supplies - Binders Model 946,2683.0,7,0.0,527.8087499999999,2024,9,2024-09,2024Q3,Wednesday
 CA-2024-10257,2023-04-28,2023-05-02,CUST-1032,Customer 33,Corporate,South,Furniture,Bookcases,Furniture - Bookcases Model 106,84.16,1,0.0,18.13,2023,4,2023-04,2023Q2,Friday
 CA-2024-10258,2024-10-30,2024-11-01,CUST-1059,Customer 60,Consumer,East,Office Supplies,Art,Office Supplies - Art Model 225,258.45,1,0.15,36.33,2024,10,2024-10,2024Q4,Wednesday
-CA-2024-10259,2024-11-18,2024-11-22,CUST-1055,Customer 56,Home Office,North,Furniture,Bookcases,Furniture - Bookcases Model 976,2918.59,6,0.0,731.24,2024,11,2024-11,2024Q4,Monday
+CA-2024-10259,2024-11-18,2024-11-22,CUST-1055,Customer 56,Home Office,North,Furniture,Bookcases,Furniture - Bookcases Model 976,2812.5675,6,0.0,527.8087499999999,2024,11,2024-11,2024Q4,Monday
 CA-2024-10260,2023-03-16,2023-03-21,CUST-1003,Customer 4,Consumer,South,Furniture,Furnishings,Furniture - Furnishings Model 333,992.57,6,0.2,85.21,2023,3,2023-03,2023Q1,Thursday
 CA-2024-10261,2024-06-25,2024-06-27,CUST-1100,Customer 101,Home Office,North,Technology,Phones,Technology - Phones Model 134,891.75,4,0.5,-129.72,2024,6,2024-06,2024Q2,Tuesday
 CA-2024-10262,2023-03-18,2023-03-21,CUST-1046,Customer 47,Consumer,North,Office Supplies,Paper,Office Supplies - Paper Model 167,441.32,1,0.1,76.86,2023,3,2023-03,2023Q1,Saturday
-CA-2024-10263,2024-01-14,2024-01-17,CUST-1002,Customer 3,Consumer,West,Office Supplies,Storage,Office Supplies - Storage Model 596,1827.78,7,0.0,542.2,2024,1,2024-01,2024Q1,Sunday
+CA-2024-10263,2024-01-14,2024-01-17,CUST-1002,Customer 3,Consumer,West,Office Supplies,Storage,Office Supplies - Storage Model 596,1827.78,7,0.0,527.8087499999999,2024,1,2024-01,2024Q1,Sunday
 CA-2024-10264,2023-12-25,2023-12-29,CUST-1114,Customer 115,Consumer,East,Furniture,Tables,Furniture - Tables Model 210,1480.06,4,0.1,324.7,2023,12,2023-12,2023Q4,Monday
 CA-2024-10265,2023-04-14,2023-04-15,CUST-1023,Customer 24,Corporate,North,Office Supplies,Binders,Office Supplies - Binders Model 616,687.79,4,0.3,-18.41,2023,4,2023-04,2023Q2,Friday
-CA-2024-10266,2023-04-01,2023-04-06,CUST-1097,Customer 98,Corporate,North,Office Supplies,Paper,Office Supplies - Paper Model 760,2637.19,7,0.0,736.89,2023,4,2023-04,2023Q2,Saturday
+CA-2024-10266,2023-04-01,2023-04-06,CUST-1097,Customer 98,Corporate,North,Office Supplies,Paper,Office Supplies - Paper Model 760,2637.19,7,0.0,527.8087499999999,2023,4,2023-04,2023Q2,Saturday
 CA-2024-10267,2023-01-20,2023-01-21,CUST-1045,Customer 46,Consumer,South,Furniture,Tables,Furniture - Tables Model 765,1570.49,4,0.2,140.08,2023,1,2023-01,2023Q1,Friday
 CA-2024-10268,2024-11-25,2024-11-27,CUST-1099,Customer 100,Consumer,North,Office Supplies,Art,Office Supplies - Art Model 814,1243.58,3,0.1,256.87,2024,11,2024-11,2024Q4,Monday
 CA-2024-10269,2023-03-23,2023-03-27,CUST-1050,Customer 51,Corporate,East,Office Supplies,Appliances,Office Supplies - Appliances Model 262,112.23,1,0.0,22.48,2023,3,2023-03,2023Q1,Thursday
@@ -272,7 +272,7 @@ CA-2024-10270,2023-12-03,2023-12-04,CUST-1096,Customer 97,Home Office,East,Offic
 CA-2024-10271,2024-12-20,2024-12-22,CUST-1095,Customer 96,Home Office,South,Office Supplies,Paper,Office Supplies - Paper Model 909,1608.92,5,0.0,451.21,2024,12,2024-12,2024Q4,Friday
 CA-2024-10272,2024-10-25,2024-10-28,CUST-1055,Customer 56,Corporate,South,Furniture,Tables,Furniture - Tables Model 469,343.26,1,0.0,68.73,2024,10,2024-10,2024Q4,Friday
 CA-2024-10273,2024-08-01,2024-08-02,CUST-1035,Customer 36,Home Office,North,Furniture,Bookcases,Furniture - Bookcases Model 843,1596.26,4,0.15,249.99,2024,8,2024-08,2024Q3,Thursday
-CA-2024-10274,2024-11-06,2024-11-09,CUST-1065,Customer 66,Consumer,East,Office Supplies,Paper,Office Supplies - Paper Model 483,2438.74,7,0.0,572.82,2024,11,2024-11,2024Q4,Wednesday
+CA-2024-10274,2024-11-06,2024-11-09,CUST-1065,Customer 66,Consumer,East,Office Supplies,Paper,Office Supplies - Paper Model 483,2438.74,7,0.0,527.8087499999999,2024,11,2024-11,2024Q4,Wednesday
 CA-2024-10275,2023-07-07,2023-07-12,CUST-1044,Customer 45,Corporate,North,Technology,Copiers,Technology - Copiers Model 457,144.26,1,0.1,28.77,2023,7,2023-07,2023Q3,Friday
 CA-2024-10276,2024-10-17,2024-10-21,CUST-1065,Customer 66,Consumer,North,Office Supplies,Binders,Office Supplies - Binders Model 389,741.31,7,0.3,0.38,2024,10,2024-10,2024Q4,Thursday
 CA-2024-10277,2023-01-27,2023-02-01,CUST-1102,Customer 103,Consumer,North,Office Supplies,Paper,Office Supplies - Paper Model 536,93.99,3,0.0,24.89,2023,1,2023-01,2023Q1,Friday
@@ -310,7 +310,7 @@ CA-2024-10308,2024-09-19,2024-09-21,CUST-1058,Customer 59,Consumer,North,Furnitu
 CA-2024-10309,2023-09-13,2023-09-16,CUST-1055,Customer 56,Corporate,East,Office Supplies,Art,Office Supplies - Art Model 502,415.27,7,0.3,22.69,2023,9,2023-09,2023Q3,Wednesday
 CA-2024-10310,2024-07-05,2024-07-10,CUST-1020,Customer 21,Corporate,East,Office Supplies,Storage,Office Supplies - Storage Model 727,114.16,1,0.0,29.61,2024,7,2024-07,2024Q3,Friday
 CA-2024-10311,2024-07-11,2024-07-15,CUST-1109,Customer 110,Consumer,West,Furniture,Tables,Furniture - Tables Model 520,1333.37,7,0.2,164.78,2024,7,2024-07,2024Q3,Thursday
-CA-2024-10312,2023-07-08,2023-07-12,CUST-1097,Customer 98,Corporate,West,Office Supplies,Art,Office Supplies - Art Model 389,3078.62,7,0.0,705.01,2023,7,2023-07,2023Q3,Saturday
+CA-2024-10312,2023-07-08,2023-07-12,CUST-1097,Customer 98,Corporate,West,Office Supplies,Art,Office Supplies - Art Model 389,2812.5675,7,0.0,527.8087499999999,2023,7,2023-07,2023Q3,Saturday
 CA-2024-10313,2024-08-03,2024-08-08,CUST-1061,Customer 62,Corporate,North,Office Supplies,Paper,Office Supplies - Paper Model 425,83.0,2,0.0,18.29,2024,8,2024-08,2024Q3,Saturday
 CA-2024-10314,2023-03-26,2023-03-31,CUST-1083,Customer 84,Consumer,East,Furniture,Furnishings,Furniture - Furnishings Model 943,736.5,7,0.15,89.55,2023,3,2023-03,2023Q1,Sunday
 CA-2024-10315,2023-12-09,2023-12-11,CUST-1049,Customer 50,Home Office,North,Office Supplies,Art,Office Supplies - Art Model 305,113.7,3,0.5,-18.13,2023,12,2023-12,2023Q4,Saturday
@@ -368,7 +368,7 @@ CA-2024-10366,2024-03-30,2024-04-04,CUST-1101,Customer 102,Consumer,West,Furnitu
 CA-2024-10367,2023-04-01,2023-04-06,CUST-1073,Customer 74,Consumer,East,Furniture,Tables,Furniture - Tables Model 499,128.66,1,0.4,-3.97,2023,4,2023-04,2023Q2,Saturday
 CA-2024-10368,2024-05-13,2024-05-16,CUST-1029,Customer 30,Consumer,West,Office Supplies,Paper,Office Supplies - Paper Model 265,39.64,2,0.15,4.4,2024,5,2024-05,2024Q2,Monday
 CA-2024-10369,2024-11-25,2024-11-28,CUST-1057,Customer 58,Corporate,West,Office Supplies,Appliances,Office Supplies - Appliances Model 237,408.88,4,0.5,-50.83,2024,11,2024-11,2024Q4,Monday
-CA-2024-10370,2024-11-13,2024-11-15,CUST-1073,Customer 74,Consumer,North,Furniture,Tables,Furniture - Tables Model 954,2791.01,6,0.0,730.83,2024,11,2024-11,2024Q4,Wednesday
+CA-2024-10370,2024-11-13,2024-11-15,CUST-1073,Customer 74,Consumer,North,Furniture,Tables,Furniture - Tables Model 954,2791.01,6,0.0,527.8087499999999,2024,11,2024-11,2024Q4,Wednesday
 CA-2024-10371,2023-07-10,2023-07-13,CUST-1004,Customer 5,Home Office,West,Office Supplies,Paper,Office Supplies - Paper Model 212,1288.8,6,0.1,161.53,2023,7,2023-07,2023Q3,Monday
 CA-2024-10372,2023-07-08,2023-07-10,CUST-1026,Customer 27,Corporate,South,Furniture,Tables,Furniture - Tables Model 376,1912.02,7,0.15,286.26,2023,7,2023-07,2023Q3,Saturday
 CA-2024-10373,2023-07-01,2023-07-03,CUST-1021,Customer 22,Consumer,West,Technology,Phones,Technology - Phones Model 754,615.71,6,0.1,115.0,2023,7,2023-07,2023Q3,Saturday
@@ -395,7 +395,7 @@ CA-2024-10393,2023-01-13,2023-01-15,CUST-1092,Customer 93,Corporate,South,Furnit
 CA-2024-10394,2023-05-23,2023-05-24,CUST-1051,Customer 52,Corporate,East,Furniture,Furnishings,Furniture - Furnishings Model 791,135.05,1,0.1,27.54,2023,5,2023-05,2023Q2,Tuesday
 CA-2024-10395,2023-01-01,2023-01-05,CUST-1098,Customer 99,Corporate,West,Furniture,Tables,Furniture - Tables Model 239,1539.01,6,0.3,-32.45,2023,1,2023-01,2023Q1,Sunday
 CA-2024-10396,2024-10-28,2024-11-01,CUST-1064,Customer 65,Corporate,South,Office Supplies,Art,Office Supplies - Art Model 714,75.86,1,0.0,19.39,2024,10,2024-10,2024Q4,Monday
-CA-2024-10397,2024-12-25,2024-12-30,CUST-1039,Customer 40,Home Office,South,Office Supplies,Paper,Office Supplies - Paper Model 592,2496.16,6,0.0,569.82,2024,12,2024-12,2024Q4,Wednesday
+CA-2024-10397,2024-12-25,2024-12-30,CUST-1039,Customer 40,Home Office,South,Office Supplies,Paper,Office Supplies - Paper Model 592,2496.16,6,0.0,527.8087499999999,2024,12,2024-12,2024Q4,Wednesday
 CA-2024-10398,2024-01-06,2024-01-09,CUST-1087,Customer 88,Consumer,East,Furniture,Furnishings,Furniture - Furnishings Model 950,826.18,3,0.15,122.15,2024,1,2024-01,2024Q1,Saturday
 CA-2024-10399,2023-01-28,2023-01-30,CUST-1037,Customer 38,Home Office,East,Office Supplies,Paper,Office Supplies - Paper Model 317,1098.65,4,0.4,-130.71,2023,1,2023-01,2023Q1,Saturday
 CA-2024-10000,2023-10-15,2023-10-16,CUST-1104,Customer 105,Consumer,West,Technology,Accessories,Technology - Accessories Model 351,431.73,3,0.2,21.11,2023,10,2023-10,2023Q4,Sunday
@@ -415,13 +415,13 @@ CA-2024-10013,2024-05-23,2024-05-26,CUST-1012,Customer 13,Consumer,North,Furnitu
 CA-2024-10014,2023-01-26,2023-01-31,CUST-1089,Customer 90,Consumer,South,Office Supplies,Storage,Office Supplies - Storage Model 245,149.66,1,0.15,13.0,2023,1,2023-01,2023Q1,Thursday
 CA-2024-10015,2024-01-19,2024-01-23,CUST-1118,Customer 119,Corporate,East,Technology,Machines,Technology - Machines Model 518,156.75,3,0.0,42.03,2024,1,2024-01,2024Q1,Friday
 CA-2024-10016,2023-05-02,2023-05-06,CUST-1103,Customer 104,Consumer,North,Office Supplies,Art,Office Supplies - Art Model 149,238.86,4,0.1,44.81,2023,5,2023-05,2023Q2,Tuesday
-CA-2024-10017,2024-02-02,2024-02-07,CUST-1111,Customer 112,Consumer,South,Furniture,Tables,Furniture - Tables Model 819,2497.45,6,0.0,554.46,2024,2,2024-02,2024Q1,Friday
+CA-2024-10017,2024-02-02,2024-02-07,CUST-1111,Customer 112,Consumer,South,Furniture,Tables,Furniture - Tables Model 819,2497.45,6,0.0,527.8087499999999,2024,2,2024-02,2024Q1,Friday
 CA-2024-10018,2023-08-25,2023-08-27,CUST-1030,Customer 31,Consumer,West,Office Supplies,Art,Office Supplies - Art Model 258,1918.75,5,0.2,86.38,2023,8,2023-08,2023Q3,Friday
 CA-2024-10019,2024-01-06,2024-01-08,CUST-1056,Customer 57,Consumer,South,Office Supplies,Storage,Office Supplies - Storage Model 981,1717.79,5,0.0,419.81,2024,1,2024-01,2024Q1,Saturday
 CA-2024-10020,2024-01-17,2024-01-22,CUST-1022,Customer 23,Home Office,South,Technology,Phones,Technology - Phones Model 593,235.18,5,0.3,-3.5,2024,1,2024-01,2024Q1,Wednesday
 CA-2024-10021,2023-05-26,2023-05-28,CUST-1095,Customer 96,Consumer,South,Office Supplies,Art,Office Supplies - Art Model 546,374.64,3,0.15,56.07,2023,5,2023-05,2023Q2,Friday
 CA-2024-10022,2024-03-27,2024-03-28,CUST-1040,Customer 41,Consumer,West,Office Supplies,Paper,Office Supplies - Paper Model 390,1896.71,4,0.0,496.81,2024,3,2024-03,2024Q1,Wednesday
-CA-2024-10023,2024-05-29,2024-05-30,CUST-1059,Customer 60,Consumer,South,Office Supplies,Labels,Office Supplies - Labels Model 350,3291.31,7,0.0,950.24,2024,5,2024-05,2024Q2,Wednesday
+CA-2024-10023,2024-05-29,2024-05-30,CUST-1059,Customer 60,Consumer,South,Office Supplies,Labels,Office Supplies - Labels Model 350,2812.5675,7,0.0,527.8087499999999,2024,5,2024-05,2024Q2,Wednesday
 CA-2024-10024,2023-03-10,2023-03-14,CUST-1086,Customer 87,Consumer,West,Furniture,Furnishings,Furniture - Furnishings Model 467,321.29,2,0.3,-10.15,2023,3,2023-03,2023Q1,Friday
 CA-2024-10025,2023-11-10,2023-11-11,CUST-1024,Customer 25,Corporate,West,Office Supplies,Storage,Office Supplies - Storage Model 198,515.89,5,0.2,70.92,2023,11,2023-11,2023Q4,Friday
 CA-2024-10026,2024-05-17,2024-05-18,CUST-1063,Customer 64,Consumer,South,Technology,Accessories,Technology - Accessories Model 153,118.64,1,0.0,33.91,2024,5,2024-05,2024Q2,Friday
@@ -439,7 +439,7 @@ CA-2024-10037,2024-12-11,2024-12-13,CUST-1105,Customer 106,Home Office,West,Furn
 CA-2024-10038,2024-05-04,2024-05-07,CUST-1112,Customer 113,Home Office,North,Office Supplies,Binders,Office Supplies - Binders Model 793,1338.57,6,0.0,270.18,2024,5,2024-05,2024Q2,Saturday
 CA-2024-10039,2024-03-19,2024-03-21,CUST-1039,Customer 40,Consumer,West,Office Supplies,Storage,Office Supplies - Storage Model 402,187.31,5,0.15,30.9,2024,3,2024-03,2024Q1,Tuesday
 CA-2024-10040,2023-12-29,2024-01-01,CUST-1040,Customer 41,Home Office,West,Office Supplies,Storage,Office Supplies - Storage Model 111,704.02,4,0.0,184.65,2023,12,2023-12,2023Q4,Friday
-CA-2024-10041,2024-05-19,2024-05-21,CUST-1047,Customer 48,Consumer,West,Office Supplies,Art,Office Supplies - Art Model 735,2197.58,6,0.0,585.4,2024,5,2024-05,2024Q2,Sunday
+CA-2024-10041,2024-05-19,2024-05-21,CUST-1047,Customer 48,Consumer,West,Office Supplies,Art,Office Supplies - Art Model 735,2197.58,6,0.0,527.8087499999999,2024,5,2024-05,2024Q2,Sunday
 CA-2024-10042,2023-03-19,2023-03-21,CUST-1028,Customer 29,Home Office,North,Office Supplies,Appliances,Office Supplies - Appliances Model 970,463.74,2,0.1,94.59,2023,3,2023-03,2023Q1,Sunday
 CA-2024-10043,2024-12-28,2024-12-30,CUST-1057,Customer 58,Consumer,West,Technology,Phones,Technology - Phones Model 519,2186.73,7,0.15,371.8,2024,12,2024-12,2024Q4,Saturday
 CA-2024-10044,2024-12-29,2024-12-30,CUST-1044,Customer 45,Corporate,South,Office Supplies,Appliances,Office Supplies - Appliances Model 222,232.09,5,0.15,33.28,2024,12,2024-12,2024Q4,Sunday
@@ -477,7 +477,7 @@ CA-2024-10075,2024-03-19,2024-03-20,CUST-1091,Customer 92,Corporate,East,Office 
 CA-2024-10076,2023-11-19,2023-11-21,CUST-1007,Customer 8,Corporate,West,Office Supplies,Paper,Office Supplies - Paper Model 528,129.91,1,0.0,34.0,2023,11,2023-11,2023Q4,Sunday
 CA-2024-10077,2023-03-07,2023-03-09,CUST-1118,Customer 119,Consumer,East,Technology,Copiers,Technology - Copiers Model 213,1788.96,7,0.2,249.12,2023,3,2023-03,2023Q1,Tuesday
 CA-2024-10078,2023-11-05,2023-11-07,CUST-1109,Customer 110,Home Office,North,Furniture,Bookcases,Furniture - Bookcases Model 804,1271.46,7,0.15,103.84,2023,11,2023-11,2023Q4,Sunday
-CA-2024-10079,2023-10-02,2023-10-04,CUST-1075,Customer 76,Corporate,West,Office Supplies,Labels,Office Supplies - Labels Model 639,2025.1,5,0.0,598.86,2023,10,2023-10,2023Q4,Monday
+CA-2024-10079,2023-10-02,2023-10-04,CUST-1075,Customer 76,Corporate,West,Office Supplies,Labels,Office Supplies - Labels Model 639,2025.1,5,0.0,527.8087499999999,2023,10,2023-10,2023Q4,Monday
 CA-2024-10080,2024-09-02,2024-09-04,CUST-1098,Customer 99,Consumer,South,Office Supplies,Binders,Office Supplies - Binders Model 409,148.58,4,0.15,17.77,2024,9,2024-09,2024Q3,Monday
 CA-2024-10081,2024-07-11,2024-07-15,CUST-1054,Customer 55,Home Office,North,Office Supplies,Appliances,Office Supplies - Appliances Model 588,812.23,7,0.0,221.81,2024,7,2024-07,2024Q3,Thursday
 CA-2024-10082,2023-12-18,2023-12-23,CUST-1106,Customer 107,Consumer,East,Furniture,Bookcases,Furniture - Bookcases Model 714,1417.17,5,0.0,293.23,2023,12,2023-12,2023Q4,Monday
@@ -496,7 +496,7 @@ CA-2024-10094,2024-03-09,2024-03-13,CUST-1107,Customer 108,Consumer,North,Office
 CA-2024-10095,2023-04-09,2023-04-11,CUST-1074,Customer 75,Corporate,West,Office Supplies,Paper,Office Supplies - Paper Model 926,109.83,6,0.0,30.57,2023,4,2023-04,2023Q2,Sunday
 CA-2024-10096,2023-08-04,2023-08-05,CUST-1067,Customer 68,Corporate,West,Technology,Copiers,Technology - Copiers Model 369,528.69,6,0.15,43.65,2023,8,2023-08,2023Q3,Friday
 CA-2024-10097,2023-11-01,2023-11-02,CUST-1015,Customer 16,Consumer,West,Technology,Accessories,Technology - Accessories Model 831,642.57,3,0.3,-6.27,2023,11,2023-11,2023Q4,Wednesday
-CA-2024-10098,2023-01-07,2023-01-10,CUST-1009,Customer 10,Corporate,North,Technology,Accessories,Technology - Accessories Model 314,2573.19,6,0.0,643.45,2023,1,2023-01,2023Q1,Saturday
+CA-2024-10098,2023-01-07,2023-01-10,CUST-1009,Customer 10,Corporate,North,Technology,Accessories,Technology - Accessories Model 314,2573.19,6,0.0,527.8087499999999,2023,1,2023-01,2023Q1,Saturday
 CA-2024-10099,2023-06-01,2023-06-04,CUST-1025,Customer 26,Consumer,South,Office Supplies,Art,Office Supplies - Art Model 174,2337.05,6,0.1,300.14,2023,6,2023-06,2023Q2,Thursday
 CA-2024-10100,2024-07-19,2024-07-22,CUST-1071,Customer 72,Home Office,West,Office Supplies,Art,Office Supplies - Art Model 426,70.98,1,0.1,9.1,2024,7,2024-07,2024Q3,Friday
 CA-2024-10101,2024-12-08,2024-12-11,CUST-1002,Customer 3,Consumer,West,Technology,Phones,Technology - Phones Model 830,844.13,7,0.0,183.03,2024,12,2024-12,2024Q4,Sunday
@@ -524,7 +524,7 @@ CA-2024-10122,2024-07-01,2024-07-06,CUST-1054,Customer 55,Consumer,North,Office 
 CA-2024-10123,2023-06-03,2023-06-06,CUST-1078,Customer 79,Corporate,North,Furniture,Bookcases,Furniture - Bookcases Model 780,1104.14,3,0.2,121.08,2023,6,2023-06,2023Q2,Saturday
 CA-2024-10124,2023-02-12,2023-02-13,CUST-1000,Customer 1,Corporate,West,Office Supplies,Storage,Office Supplies - Storage Model 682,1992.15,6,0.2,155.81,2023,2,2023-02,2023Q1,Sunday
 CA-2024-10125,2023-07-28,2023-07-29,CUST-1073,Customer 74,Home Office,East,Furniture,Furnishings,Furniture - Furnishings Model 815,275.81,1,0.1,54.04,2023,7,2023-07,2023Q3,Friday
-CA-2024-10126,2023-10-11,2023-10-12,CUST-1063,Customer 64,Consumer,South,Office Supplies,Binders,Office Supplies - Binders Model 213,3105.11,7,0.0,749.07,2023,10,2023-10,2023Q4,Wednesday
+CA-2024-10126,2023-10-11,2023-10-12,CUST-1063,Customer 64,Consumer,South,Office Supplies,Binders,Office Supplies - Binders Model 213,2812.5675,7,0.0,527.8087499999999,2023,10,2023-10,2023Q4,Wednesday
 CA-2024-10127,2024-05-26,2024-05-28,CUST-1096,Customer 97,Home Office,North,Office Supplies,Art,Office Supplies - Art Model 216,911.71,5,0.1,128.28,2024,5,2024-05,2024Q2,Sunday
 CA-2024-10128,2024-08-31,2024-09-01,CUST-1087,Customer 88,Home Office,South,Office Supplies,Binders,Office Supplies - Binders Model 417,1145.14,4,0.3,-27.29,2024,8,2024-08,2024Q3,Saturday
 CA-2024-10129,2024-01-03,2024-01-05,CUST-1074,Customer 75,Consumer,South,Technology,Machines,Technology - Machines Model 685,466.24,2,0.15,51.35,2024,1,2024-01,2024Q1,Wednesday
@@ -536,7 +536,7 @@ CA-2024-10134,2024-06-20,2024-06-22,CUST-1117,Customer 118,Corporate,South,Offic
 CA-2024-10135,2023-03-31,2023-04-01,CUST-1025,Customer 26,Consumer,West,Furniture,Furnishings,Furniture - Furnishings Model 167,922.68,3,0.15,148.15,2023,3,2023-03,2023Q1,Friday
 CA-2024-10136,2024-07-14,2024-07-18,CUST-1089,Customer 90,Corporate,North,Office Supplies,Paper,Office Supplies - Paper Model 709,1691.82,5,0.0,338.52,2024,7,2024-07,2024Q3,Sunday
 CA-2024-10137,2024-07-31,2024-08-02,CUST-1072,Customer 73,Consumer,North,Office Supplies,Paper,Office Supplies - Paper Model 403,789.8,4,0.3,42.55,2024,7,2024-07,2024Q3,Wednesday
-CA-2024-10138,2023-07-02,2023-07-06,CUST-1039,Customer 40,Corporate,West,Office Supplies,Art,Office Supplies - Art Model 773,2815.87,6,0.0,815.87,2023,7,2023-07,2023Q3,Sunday
+CA-2024-10138,2023-07-02,2023-07-06,CUST-1039,Customer 40,Corporate,West,Office Supplies,Art,Office Supplies - Art Model 773,2812.5675,6,0.0,527.8087499999999,2023,7,2023-07,2023Q3,Sunday
 CA-2024-10139,2023-10-05,2023-10-07,CUST-1011,Customer 12,Home Office,South,Office Supplies,Art,Office Supplies - Art Model 170,853.25,3,0.0,244.85,2023,10,2023-10,2023Q4,Thursday
 CA-2024-10140,2024-09-10,2024-09-15,CUST-1047,Customer 48,Consumer,North,Furniture,Furnishings,Furniture - Furnishings Model 486,533.5,7,0.2,27.69,2024,9,2024-09,2024Q3,Tuesday
 CA-2024-10141,2024-01-22,2024-01-27,CUST-1069,Customer 70,Consumer,North,Office Supplies,Labels,Office Supplies - Labels Model 366,606.22,2,0.15,74.89,2024,1,2024-01,2024Q1,Monday
@@ -589,10 +589,10 @@ CA-2024-10187,2024-02-20,2024-02-23,CUST-1002,Customer 3,Consumer,South,Furnitur
 CA-2024-10188,2023-01-04,2023-01-06,CUST-1102,Customer 103,Corporate,West,Furniture,Bookcases,Furniture - Bookcases Model 830,1309.65,5,0.0,389.81,2023,1,2023-01,2023Q1,Wednesday
 CA-2024-10189,2024-04-27,2024-04-30,CUST-1067,Customer 68,Consumer,West,Office Supplies,Art,Office Supplies - Art Model 578,115.9,1,0.2,14.58,2024,4,2024-04,2024Q2,Saturday
 CA-2024-10190,2023-05-21,2023-05-24,CUST-1005,Customer 6,Corporate,West,Furniture,Bookcases,Furniture - Bookcases Model 869,79.07,4,0.0,17.21,2023,5,2023-05,2023Q2,Sunday
-CA-2024-10191,2024-04-18,2024-04-21,CUST-1054,Customer 55,Home Office,West,Office Supplies,Appliances,Office Supplies - Appliances Model 183,2140.59,5,0.0,569.89,2024,4,2024-04,2024Q2,Thursday
+CA-2024-10191,2024-04-18,2024-04-21,CUST-1054,Customer 55,Home Office,West,Office Supplies,Appliances,Office Supplies - Appliances Model 183,2140.59,5,0.0,527.8087499999999,2024,4,2024-04,2024Q2,Thursday
 CA-2024-10192,2023-09-25,2023-09-30,CUST-1119,Customer 120,Consumer,North,Office Supplies,Appliances,Office Supplies - Appliances Model 646,1102.95,5,0.1,212.01,2023,9,2023-09,2023Q3,Monday
 CA-2024-10193,2023-04-27,2023-04-29,CUST-1105,Customer 106,Corporate,East,Furniture,Tables,Furniture - Tables Model 336,355.07,2,0.3,-9.78,2023,4,2023-04,2023Q2,Thursday
-CA-2024-10194,2024-06-15,2024-06-16,CUST-1097,Customer 98,Consumer,North,Office Supplies,Labels,Office Supplies - Labels Model 656,2179.18,5,0.0,571.19,2024,6,2024-06,2024Q2,Saturday
+CA-2024-10194,2024-06-15,2024-06-16,CUST-1097,Customer 98,Consumer,North,Office Supplies,Labels,Office Supplies - Labels Model 656,2179.18,5,0.0,527.8087499999999,2024,6,2024-06,2024Q2,Saturday
 CA-2024-10195,2023-06-15,2023-06-17,CUST-1085,Customer 86,Corporate,East,Office Supplies,Appliances,Office Supplies - Appliances Model 683,1180.07,4,0.0,331.22,2023,6,2023-06,2023Q2,Thursday
 CA-2024-10196,2023-05-13,2023-05-15,CUST-1037,Customer 38,Consumer,North,Office Supplies,Storage,Office Supplies - Storage Model 690,255.06,4,0.2,14.37,2023,5,2023-05,2023Q2,Saturday
 CA-2024-10197,2023-12-24,2023-12-27,CUST-1097,Customer 98,Home Office,South,Office Supplies,Art,Office Supplies - Art Model 936,1650.17,5,0.0,452.53,2023,12,2023-12,2023Q4,Sunday
@@ -602,7 +602,7 @@ CA-2024-10200,2023-03-05,2023-03-10,CUST-1115,Customer 116,Corporate,South,Offic
 CA-2024-10201,2023-04-21,2023-04-23,CUST-1064,Customer 65,Corporate,East,Office Supplies,Labels,Office Supplies - Labels Model 380,1518.48,4,0.0,358.71,2023,4,2023-04,2023Q2,Friday
 CA-2024-10202,2023-07-29,2023-08-02,CUST-1063,Customer 64,Home Office,North,Office Supplies,Binders,Office Supplies - Binders Model 329,930.7,2,0.0,223.18,2023,7,2023-07,2023Q3,Saturday
 CA-2024-10203,2023-03-26,2023-03-27,CUST-1110,Customer 111,Home Office,North,Technology,Phones,Technology - Phones Model 317,1470.58,5,0.15,162.78,2023,3,2023-03,2023Q1,Sunday
-CA-2024-10204,2023-01-26,2023-01-31,CUST-1014,Customer 15,Corporate,North,Furniture,Tables,Furniture - Tables Model 146,2816.44,7,0.1,582.82,2023,1,2023-01,2023Q1,Thursday
+CA-2024-10204,2023-01-26,2023-01-31,CUST-1014,Customer 15,Corporate,North,Furniture,Tables,Furniture - Tables Model 146,2812.5675,7,0.1,527.8087499999999,2023,1,2023-01,2023Q1,Thursday
 CA-2024-10205,2023-06-04,2023-06-06,CUST-1057,Customer 58,Corporate,South,Technology,Copiers,Technology - Copiers Model 555,565.0,5,0.15,64.07,2023,6,2023-06,2023Q2,Sunday
 CA-2024-10206,2023-07-19,2023-07-22,CUST-1117,Customer 118,Home Office,West,Office Supplies,Storage,Office Supplies - Storage Model 401,204.71,1,0.1,36.49,2023,7,2023-07,2023Q3,Wednesday
 CA-2024-10207,2024-08-28,2024-08-30,CUST-1009,Customer 10,Corporate,West,Technology,Phones,Technology - Phones Model 985,1320.21,7,0.1,269.37,2024,8,2024-08,2024Q3,Wednesday
@@ -635,17 +635,17 @@ CA-2024-10233,2024-01-02,2024-01-04,CUST-1095,Customer 96,Consumer,North,Office 
 CA-2024-10234,2024-09-10,2024-09-11,CUST-1106,Customer 107,Corporate,North,Office Supplies,Appliances,Office Supplies - Appliances Model 650,261.08,1,0.0,59.81,2024,9,2024-09,2024Q3,Tuesday
 CA-2024-10235,2024-10-07,2024-10-09,CUST-1037,Customer 38,Consumer,South,Office Supplies,Binders,Office Supplies - Binders Model 941,327.69,6,0.0,95.52,2024,10,2024-10,2024Q4,Monday
 CA-2024-10236,2023-05-30,2023-06-01,CUST-1038,Customer 39,Home Office,South,Office Supplies,Storage,Office Supplies - Storage Model 700,317.13,1,0.0,73.02,2023,5,2023-05,2023Q2,Tuesday
-CA-2024-10237,2024-06-04,2024-06-08,CUST-1001,Customer 2,Home Office,South,Office Supplies,Storage,Office Supplies - Storage Model 902,1861.14,7,0.0,531.39,2024,6,2024-06,2024Q2,Tuesday
+CA-2024-10237,2024-06-04,2024-06-08,CUST-1001,Customer 2,Home Office,South,Office Supplies,Storage,Office Supplies - Storage Model 902,1861.14,7,0.0,527.8087499999999,2024,6,2024-06,2024Q2,Tuesday
 CA-2024-10238,2024-03-07,2024-03-08,CUST-1018,Customer 19,Consumer,East,Office Supplies,Binders,Office Supplies - Binders Model 232,410.36,1,0.15,64.71,2024,3,2024-03,2024Q1,Thursday
 CA-2024-10239,2023-04-01,2023-04-05,CUST-1062,Customer 63,Consumer,West,Furniture,Chairs,Furniture - Chairs Model 392,365.63,3,0.1,80.29,2023,4,2023-04,2023Q2,Saturday
 CA-2024-10240,2023-06-23,2023-06-28,CUST-1034,Customer 35,Corporate,East,Office Supplies,Storage,Office Supplies - Storage Model 398,115.54,1,0.4,-9.92,2023,6,2023-06,2023Q2,Friday
 CA-2024-10241,2024-10-25,2024-10-27,CUST-1037,Customer 38,Home Office,West,Furniture,Tables,Furniture - Tables Model 605,398.19,1,0.0,84.48,2024,10,2024-10,2024Q4,Friday
 CA-2024-10242,2024-05-16,2024-05-18,CUST-1017,Customer 18,Consumer,East,Furniture,Bookcases,Furniture - Bookcases Model 504,1145.96,3,0.1,225.96,2024,5,2024-05,2024Q2,Thursday
 CA-2024-10243,2023-12-22,2023-12-26,CUST-1044,Customer 45,Corporate,East,Furniture,Furnishings,Furniture - Furnishings Model 998,1661.54,4,0.0,422.37,2023,12,2023-12,2023Q4,Friday
-CA-2024-10244,2023-08-03,2023-08-08,CUST-1008,Customer 9,Home Office,North,Furniture,Bookcases,Furniture - Bookcases Model 827,2873.79,7,0.15,234.78,2023,8,2023-08,2023Q3,Thursday
-CA-2024-10245,2023-08-08,2023-08-12,CUST-1030,Customer 31,Corporate,North,Furniture,Bookcases,Furniture - Bookcases Model 638,2943.04,7,0.1,453.72,2023,8,2023-08,2023Q3,Tuesday
+CA-2024-10244,2023-08-03,2023-08-08,CUST-1008,Customer 9,Home Office,North,Furniture,Bookcases,Furniture - Bookcases Model 827,2812.5675,7,0.15,234.78,2023,8,2023-08,2023Q3,Thursday
+CA-2024-10245,2023-08-08,2023-08-12,CUST-1030,Customer 31,Corporate,North,Furniture,Bookcases,Furniture - Bookcases Model 638,2812.5675,7,0.1,453.72,2023,8,2023-08,2023Q3,Tuesday
 CA-2024-10246,2024-11-22,2024-11-27,CUST-1084,Customer 85,Consumer,East,Technology,Machines,Technology - Machines Model 636,466.31,2,0.1,62.92,2024,11,2024-11,2024Q4,Friday
 CA-2024-10247,2024-05-27,2024-05-30,CUST-1004,Customer 5,Home Office,West,Office Supplies,Labels,Office Supplies - Labels Model 470,1961.31,6,0.0,515.2,2024,5,2024-05,2024Q2,Monday
 CA-2024-10248,2023-07-24,2023-07-25,CUST-1046,Customer 47,Consumer,West,Technology,Copiers,Technology - Copiers Model 168,989.75,6,0.3,11.96,2023,7,2023-07,2023Q3,Monday
-CA-2024-10249,2023-07-31,2023-08-04,CUST-1015,Customer 16,Consumer,West,Furniture,Chairs,Furniture - Chairs Model 650,2892.6,6,0.0,831.55,2023,7,2023-07,2023Q3,Monday
+CA-2024-10249,2023-07-31,2023-08-04,CUST-1015,Customer 16,Consumer,West,Furniture,Chairs,Furniture - Chairs Model 650,2812.5675,6,0.0,527.8087499999999,2023,7,2023-07,2023Q3,Monday
 CA-2024-10250,2024-10-10,2024-10-12,CUST-1086,Customer 87,Consumer,North,Technology,Machines,Technology - Machines Model 626,898.38,7,0.0,208.43,2024,10,2024-10,2024Q4,Thursday
