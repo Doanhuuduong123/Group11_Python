@@ -118,7 +118,7 @@ pip install -r requirements.txt
 
 Nếu sử dụng môi trường ảo:
 
-```bash
+```bash 
 python -m venv .venv
 ```
 
