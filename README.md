@@ -98,7 +98,7 @@ Các thành phần chính của dự án gồm:
 
 ## 5. YÊU CẦU MÔI TRƯỜNG
 
-### 3.1. Phiên bản Python
+### 5.1. Phiên bản Python
 
 Khuyến nghị sử dụng:
 
@@ -108,7 +108,7 @@ Python 3.8 trở lên
 
 Nên sử dụng Python 3.11 trở lên để có môi trường ổn định với các thư viện trong dự án.
 
-### 3.2. Cài đặt thư viện
+### 5.2. Cài đặt thư viện
 
 Mở Terminal/Command Prompt tại thư mục gốc của project và chạy:
 
@@ -188,7 +188,7 @@ project/
 
 ## 7. DỮ LIỆU
 
-### 5.1. Nguồn và định dạng dữ liệu
+### 7.1. Nguồn và định dạng dữ liệu
 
 Dự án sử dụng dữ liệu bán lẻ Superstore.
 
@@ -208,7 +208,7 @@ Chương trình hỗ trợ đọc:
 
 Trong bài tập, dữ liệu chính được sử dụng là CSV và JSON.
 
-### 5.2. Quy mô dữ liệu
+### 7.2. Quy mô dữ liệu
 
 Dataset sử dụng trong dự án có khoảng 650 bản ghi, đáp ứng yêu cầu tối thiểu 500 bản ghi.
 
@@ -218,7 +218,7 @@ Nếu cần tạo lại dữ liệu mẫu:
 python data/generate_data.py
 ```
 
-### 5.3. Một số trường dữ liệu chính
+### 7.3. Một số trường dữ liệu chính
 
 | Trường          | Ý nghĩa           |
 | --------------- | ----------------- |
@@ -271,24 +271,24 @@ Tạo các trường thời gian
 Dữ liệu sạch
 ```
 
-### 6.1. Chuẩn hóa tên cột và giá trị
+### 8.1. Chuẩn hóa tên cột và giá trị
 
 Các khoảng trắng thừa trong tên cột và giá trị dạng chuỗi được loại bỏ để đảm bảo dữ liệu nhất quán.
 
-### 6.2. Xử lý giá trị thiếu
+### 8.2. Xử lý giá trị thiếu
 
 * `Sales`: xử lý giá trị thiếu bằng median.
 * `Profit`: xử lý giá trị thiếu theo quy tắc được cài đặt trong module tiền xử lý.
 
-### 6.3. Xử lý dữ liệu trùng
+### 8.3. Xử lý dữ liệu trùng
 
 Các bản ghi hoàn toàn trùng lặp được loại bỏ bằng Pandas.
 
-### 6.4. Xử lý kiểu dữ liệu
+### 8.4. Xử lý kiểu dữ liệu
 
 Các trường ngày tháng được chuyển sang kiểu `datetime` để phục vụ phân tích theo thời gian.
 
-### 6.5. Xử lý ngoại lai
+### 8.5. Xử lý ngoại lai
 
 Dự án sử dụng phương pháp IQR:
 
@@ -300,7 +300,7 @@ Dự án sử dụng phương pháp IQR:
 
 Việc sử dụng Capping giúp hạn chế ảnh hưởng quá lớn của giá trị cực đoan mà không loại bỏ toàn bộ bản ghi.
 
-### 6.6. Các trường thời gian được tạo thêm
+### 8.6. Các trường thời gian được tạo thêm
 
 Sau tiền xử lý, dữ liệu được bổ sung các trường:
 
@@ -320,7 +320,7 @@ data/processed/Superstore_clean.csv
 
 ## 9. CÁC CHỨC NĂNG PHÂN TÍCH
 
-### 7.1. Phân tích doanh số và lợi nhuận
+### 9.1. Phân tích doanh số và lợi nhuận
 
 Phân tích theo:
 
@@ -336,15 +336,15 @@ Các chỉ tiêu chính:
 * Số lượng bản ghi.
 * So sánh giữa các nhóm.
 
-### 7.2. Top sản phẩm
+### 9.2. Top sản phẩm
 
 Xác định các sản phẩm có doanh số hoặc lợi nhuận cao.
 
-### 7.3. Top khách hàng
+### 9.3. Top khách hàng
 
 Phân tích khách hàng theo giá trị mua hàng và lợi nhuận.
 
-### 7.4. Phân tích RFM
+### 9.4. Phân tích RFM
 
 Phân tích khách hàng dựa trên:
 
@@ -354,17 +354,17 @@ Phân tích khách hàng dựa trên:
 
 Từ đó hỗ trợ phân nhóm khách hàng.
 
-### 7.5. Market Basket Analysis
+### 9.5. Market Basket Analysis
 
 Phân tích các nhóm sản phẩm thường xuất hiện cùng trong đơn hàng dựa trên `Sub-Category`.
 
-### 7.6. Phân tích Discount và Profit
+### 9.6. Phân tích Discount và Profit
 
 So sánh lợi nhuận giữa các nhóm mức giảm giá để tìm hiểu xu hướng giữa Discount và Profit.
 
 > Phân tích tương quan hoặc xu hướng không được dùng để khẳng định quan hệ nhân quả.
 
-### 7.7. Phân tích theo thời gian
+### 9.7. Phân tích theo thời gian
 
 Phân tích doanh số và lợi nhuận theo:
 
@@ -406,19 +406,19 @@ src/sales_forecaster.py
 
 thực hiện dự báo doanh số theo tháng bằng:
 
-### 9.1. SMA
+### 11.1. SMA
 
 Simple Moving Average dùng trung bình trượt của các kỳ trước để ước lượng giá trị tiếp theo.
 
-### 9.2. EMA
+### 11.2. EMA
 
 Exponential Moving Average đặt trọng số cao hơn cho các quan sát gần hiện tại.
 
-### 9.3. Linear Regression
+### 11.3. Linear Regression
 
 Sử dụng hồi quy tuyến tính để mô hình hóa xu hướng doanh số theo thời gian.
 
-### 9.4. Đánh giá mô hình
+### 11.4. Đánh giá mô hình
 
 Các chỉ số đánh giá gồm:
 
@@ -527,7 +527,7 @@ pip install -r requirements.txt
 
 ## 14. CHẠY CHƯƠNG TRÌNH
 
-### 12.1. Pipeline CLI
+### 14.1. Pipeline CLI
 
 Từ thư mục gốc:
 
@@ -543,7 +543,7 @@ Pipeline thực hiện:
 4. Phân tích dữ liệu.
 5. Hiển thị các kết quả chính.
 
-### 12.2. Streamlit Dashboard
+### 14.2. Streamlit Dashboard
 
 Chạy:
 
@@ -563,7 +563,7 @@ Dashboard gồm:
 * Customer RFM.
 * Sales Forecast.
 
-### 12.3. Giao diện desktop
+### 14.3. Giao diện desktop
 
 Nếu muốn sử dụng giao diện CustomTkinter:
 
@@ -573,7 +573,7 @@ python main.py --gui
 
 Điều kiện: các thư viện GUI phải được cài đặt trong `requirements.txt`.
 
-### 12.4. Jupyter Notebook
+### 14.4. Jupyter Notebook
 
 Chạy:
 
