@@ -850,6 +850,17 @@ Dự báo doanh số
 Đánh giá mô hình
     ↓
 Dashboard / GUI
-```
+```## Kết luận
 
-Mục tiêu của dự án là áp dụng Python, Pandas, NumPy, Matplotlib và các thư viện liên quan để xử lý, phân tích và trực quan hóa dữ liệu bán lẻ, đồng thời mở rộng bằng phân tích RFM, Market Basket Analysis và dự báo doanh số.
+Dự án **DT04 - Phân tích doanh số bán lẻ chuỗi siêu thị** đã hoàn thành các mục tiêu đề ra cho bài tập lớn môn Lập trình Python cho phân tích dữ liệu[cite: 1]:
+
+1. **Về mặt kỹ thuật & Đóng gói:** Xây dựng thành công một ứng dụng phân tích dữ liệu hoàn chỉnh, đáp ứng tiêu chuẩn mã nguồn sạch với mô hình hướng đối tượng (OOP)[cite: 1]. Dự án linh hoạt trong triển khai với đa dạng giao diện (CLI, Streamlit Web App, Desktop GUI) cùng hệ thống unit test đảm bảo độ ổn định cao[cite: 1].
+2. **Về mặt nghiệp vụ phân tích:** Đã giải quyết triệt để các bài toán thực tế của doanh nghiệp bán lẻ:
+   - Xử lý và chuẩn hóa dữ liệu thô bán hàng[cite: 1].
+   - Trực quan hóa chính xác tình hình kinh doanh, dòng sản phẩm chủ lực và chân dung khách hàng thông qua mô hình phân khúc RFM[cite: 1].
+   - Ứng dụng các thuật toán dự báo chuỗi thời gian (SMA, EMA, Hồi quy tuyến tính) giúp đưa ra dự đoán doanh số cho các kỳ tiếp theo có cơ sở khoa học[cite: 1].
+
+**Hướng phát triển mở rộng trong tương lai:**
+- Tích hợp các thuật toán học máy nâng cao hơn cho dự báo chuỗi thời gian như Prophet, ARIMA hoặc LSTM.
+- Mở rộng phân tích thuật toán Apriori cho bài toán Market Basket Analysis trên tập dữ liệu quy mô lớn hơn.
+- Kết nối trực tiếp hệ thống với các cơ sở dữ liệu quan hệ (PostgreSQL, MySQL) thay vì chỉ đọc file phẳng (CSV/JSON)[cite: 1]..
